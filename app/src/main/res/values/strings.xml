@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Full Application Development</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="place_holder">Place holder</string>
+    <string name="action_refresh">Settings</string>
+    <string name="action_new">Settings</string>
+    <string name="logo_desc">App logo</string>
+    <string name="blog_title">How to develop Android CardView</string>
+    <string name="blog_content">We will go into details to learn how to develop android CardView application and other important concepts that are necessary in understanding the tutorial </string>
+    <string name="read_more">Read more</string>
+</resources>
